@@ -1,47 +1,44 @@
-
 .individualCard {
-    margin-top: 15%;
-    text-align: center;
-    padding: 10px;
-    border: 1.5px solid dimgrey;
-    border-radius: 5px;
+  margin-top: 15%;
+  text-align: center;
+  padding: 10px;
+  border: 1.5px solid dimgrey;
+  border-radius: 5px;
 }
 
-.individualCard img  {
-    width: 80%;
-    height: 190px;
-    
+.individualCard img {
+  width: 80%;
+  height: 190px;
 }
 
 .individualCard p {
-    
-    margin: 10px 0 ;
-    font-weight: 700;
-    font-size: 24px;
-    text-transform: capitalize;
+  margin: 10px 0;
+  font-weight: 700;
+  font-size: 24px;
+  text-transform: capitalize;
 }
 
-
-table { 
-    width: 100%;
+table {
+  width: 100%;
 }
 
- table, th, td{
-    
+table,
+th,
+td {
   border: 1px solid dimgrey;
-    border-radius: 5px;
+  border-radius: 5px;
   border-collapse: collapse;
 }
 
-th,td {
-    text-transform: capitalize;
-    padding: 4px;
+th,
+td {
+  text-transform: capitalize;
+  padding: 4px;
 }
 
 .ability {
-    text-transform: capitalize;
-   padding: 10px 15px;
-    border: none;
-    color:white;
+  text-transform: capitalize;
+  padding: 10px 15px;
+  border: none;
+  color: white;
 }
-
